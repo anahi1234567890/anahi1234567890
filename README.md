@@ -97,8 +97,8 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/anahí-buendia" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  anahibuendia-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=anahí-buendia style="margin-bottom: 5px;"/>
+<a href="https://linkedin.com/in/anahi-buendia" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  anahibuendia-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=anahi-buendia style="margin-bottom: 5px;"/>
 </a>
 </li>
 
