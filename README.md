@@ -2,7 +2,7 @@
 <!--  -->A
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Front-End+Developer,;UI/UX+Desing,;Love+to+learn+new+stuffs,;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer,;UI/UX+Desing,;Love+to+learn+new+stuffs,;"></a>
 </p>
 
 <br>
@@ -13,8 +13,6 @@
 - I’m currently open for an Intern or a new job opportunity
 
 <br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -29,7 +27,7 @@
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<br>
+  <br>
 
 - **Front-End Development**:
 
@@ -39,25 +37,25 @@
   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-712CF9.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<br>
+  <br>
 
 - **Backend Development**:
 
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<br>
+  <br>
 
 - **Design**:
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![AdobeXD](https://img.shields.io/badge/Adobe%20XD%20-610A39.svg?style=for-the-badge&logo=adobexd&logoColor=white)
   ![AdobeIllustrator](https://img.shields.io/badge/Adobe%20Illustrator%20-610A39.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-<br>
+  <br>
 
 - **Game Engines**:
   ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-<br>
+  <br>
 
 - **Extras**:
 
